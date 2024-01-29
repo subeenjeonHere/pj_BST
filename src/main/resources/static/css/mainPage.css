@@ -1,0 +1,95 @@
+#carouselExampleRide .carousel-inner {
+    width: 100%;
+    margin: auto;
+    overflow: hidden
+}
+
+#carouselExampleRide img {
+    width: 100%;
+    object-fit: cover;
+    transition: transform 0.2s ease-in-out
+}
+
+.carouselExampleRide{
+    margin-bottom: 0px
+}
+
+#carouselExampleRide img:hover {
+    transform: scale(1.1)
+}
+
+.body_title{
+    font-size: medium;
+    font-weight: bold;
+    color: #504f4f;
+    margin-top: 20px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black
+}
+
+.ticket{
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+
+.container{
+    padding-bottom: 0%;
+    margin-top: 0px
+}
+
+.reservation {
+    margin-top: 7px;
+    font-size: 15px
+}
+
+.ticket{
+    padding-top: 0%;
+    color: black;
+    font-size: medium
+}
+
+a {
+    text-decoration: none
+}
+
+.nav {
+    font-size: medium
+}
+
+.card {
+    max-height: 5cm
+}
+
+.card h3 {
+    font-size: 1.5rem
+}
+
+.card ul {
+    font-size: 0.8rem
+}
+
+.card ul li {
+    font-size: 0.8rem
+}
+
+.rounded-circle {
+    margin-left: 10px
+}
+
+.t_name{
+    color: white;
+    margin-left: 15px;
+    font-size: small
+}
+
+.g_date{
+    color: white;
+    margin-left: 15px;
+    font-size: small
+}
+
+.std{
+    color: white;
+    margin-left: 15px;
+    font-size: small
+}

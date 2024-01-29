@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.mybatis.mapper.NoticeMapper">
+
+<!-- INFO select -->
+<select id= "noticeListINFO" parameterType="map" resultType="java.util.Map">
+    SELECT ntc_id, ntc_title, ntc_updated_at
+    FROM ticket_notice
+</select>
+
+<!-- Detail select -->
+<select id="noticeListContent" parameterType="map" resultType="java.util.Map">
+    SELECT ntc_id, ntc_title, ntc_updated_at, ntc_content
+    FROM ticket_notice
+    <where>
+        <if test="ntc_id!=null">AND ntc_id=#{"ntc_id"}</if>
+    </where>
+</select>
+
+<insert id="insertNotice" parameterType="map">
+    INSERT INTO ticket_notice(ntc_title, ntc_content, ntc_updated_at, ntc_created_at, mbr_seq)
+        VALUES(#{ntc_title},#{ntc_content}, NOW(),NOW(),0)
+</insert>
+
+<delete id="deleteNotice" parameterType="int">
+    DELETE FROM ticket_notice
+        WHERE ntc_id=#{value}
+</delete>
+</mapper>

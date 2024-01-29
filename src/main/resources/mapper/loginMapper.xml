@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.mybatis.mapper.Mapper">
+
+    <!--
+        작성자 : 이유리
+        작성일자 : 24.01.23
+        기능 : 로그인 (mapper)
+    -->
+    <select id="login" parameterType="String" resultType="com.bst.ticket.vo.MemberVO">
+        SELECT mbr_id, mbr_pwd, mbr_nm, mbr_birthdate, mbr_phone, mbr_address, mbr_postalcode, mbr_email,mbr_role, team_id
+        FROM member
+        WHERE mbr_id=#{value}
+    </select>
+
+    <!--
+        작성자 : 이유리
+        작성일자 : 24.01.24
+        기능 : 아이디찾기 (mapper)
+    -->
+    <select id="findId" parameterType="Map" resultType="String">
+        SELECT mbr_id
+        FROM member
+        WHERE  mbr_nm = #{mbr_nm} AND mbr_email = #{mbr_email}
+    </select>
+
+
+</mapper>

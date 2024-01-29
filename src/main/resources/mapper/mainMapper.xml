@@ -1,0 +1,37 @@
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.mybatis.mapper.MainMapper">
+
+    <select id= "mainTicketList" parameterType="map" resultType="com.bst.ticket.vo.MainVO">
+        select a.gm_id, a.gm_date,
+               b.team_name as team_away,
+               c.team_name as team_home,
+               d.std_name
+        from game a
+                 inner join  team b
+                 inner join team c
+                 inner join stadium d
+                            on a.team_id = b.team_id
+
+                                and a.team_id2 = c.team_id
+                                and a.std_id = d.std_id
+    </select>
+    <select id="searchDetail" parameterType="map" resultType="map">
+        <!--
+        이 쿼리는 ticket_notice 테이블에서 ntc_id, ntc_title, ntc_updated_at, ntc_content 컬럼을 검색합니다.
+        파라미터로 전달된 문자열이 각 컬럼의 값에 포함되어 있는 경우 해당 행을 반환합니다.
+        -->
+        SELECT ntc_id, ntc_title, ntc_updated_at, ntc_content
+        FROM ticket_notice
+        WHERE
+        ntc_id LIKE CONCAT('%', #{query}, '%')
+        OR
+        ntc_title LIKE CONCAT('%', #{query}, '%')
+        OR
+        ntc_updated_at LIKE CONCAT('%', #{query}, '%')
+        OR
+        ntc_content LIKE CONCAT('%', #{query}, '%')
+    </select>
+
+
+
+</mapper>

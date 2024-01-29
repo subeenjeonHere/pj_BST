@@ -1,0 +1,109 @@
+[33mcommit b63975187c0949153579ade55ee3a8176352f442[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelop[m[33m)[m
+Author: 이동건 <ehdrjsvs@naver.com>
+Date:   Sun Jan 21 18:37:30 2024 +0900
+
+    refactor:html수정
+
+[33mcommit 8b441c5b73f29230d40ba8dab94f196ccbe9d4a7[m[33m ([m[1;31morigin/develop[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: 이동건 <ehdrjsvs@naver.com>
+Date:   Sun Jan 21 16:04:51 2024 +0900
+
+    refactor:yml파일tm_baseball수정
+
+[33mcommit 31cb07d53500e01de6480fc307ec501c5ec92b9e[m
+Author: yul2 <yul9313@naver.com>
+Date:   Sun Jan 21 03:05:06 2024 +0900
+
+    feat: login view
+
+[33mcommit 294fb55651402273c94b805e81431d2f2b742e9d[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: park <bioqudgus@gmail.com>
+Date:   Fri Jan 19 04:57:27 2024 +0900
+
+    set: database 환경설정
+
+[33mcommit db280b2145a645ad51effaef41ddf886f0347bed[m
+Merge: 1d9db4d ca57254
+Author: test1 <your.email@example.com>
+Date:   Thu Jan 18 20:14:58 2024 +0900
+
+    Merge branch 'feat_mypageForm' into develop
+
+[33mcommit ca5725473d85efd536ecc0bc91e7072382e4b0ac[m
+Author: test1 <your.email@example.com>
+Date:   Thu Jan 18 20:14:23 2024 +0900
+
+    feat: mypageFrom
+
+[33mcommit 1d9db4dc6d5a821d99f8a21c0ae79141671d0385[m
+Author: 이동건 <ehdrjsvs@naver.com>
+Date:   Thu Jan 18 18:06:34 2024 +0900
+
+    fix notice error
+
+[33mcommit a1d1102bf974da0ffb000e29fa37bffaa59213a0[m
+Merge: 44bd0cd 03d6378
+Author: 이동건 <ehdrjsvs@naver.com>
+Date:   Thu Jan 18 17:42:08 2024 +0900
+
+    Merge branch 'dong' into develop
+
+[33mcommit 03d6378fd619b7530a5ae0d207b7b86924ae77f1[m
+Author: 이동건 <ehdrjsvs@naver.com>
+Date:   Thu Jan 18 17:40:24 2024 +0900
+
+    feat:회원가입,팝업기능추가
+
+[33mcommit 44bd0cd9cab997531ecd0e9c8e69bf98af2150ad[m
+Author: jaehyun990 <jentan31@naver.com>
+Date:   Thu Jan 18 16:29:46 2024 +0900
+
+    noticeSelect부분 처리
+
+[33mcommit a60b761cd6b29f024bfc84d871aa89762103861c[m
+Author: test1 <your.email@example.com>
+Date:   Thu Jan 18 15:33:22 2024 +0900
+
+    setignore
+
+[33mcommit 2a9f24a62dffa8978d1d059c9201063b0f15796a[m
+Author: Uari <92838028+Uari@users.noreply.github.com>
+Date:   Thu Jan 18 15:27:51 2024 +0900
+
+    Update .gitignore
+
+[33mcommit 1a5552444f2698c69eb162db9dc6fb571cf16f56[m
+Author: test1 <your.email@example.com>
+Date:   Thu Jan 18 15:24:30 2024 +0900
+
+    rm cached
+
+[33mcommit ed13387c394ac57feac8b0d2b74a893758e3d78b[m
+Author: test1 <your.email@example.com>
+Date:   Thu Jan 18 15:04:18 2024 +0900
+
+    feat: setGitignore
+
+[33mcommit e64e9e4df9f0587902c918f1149cbf9eeda7bafe[m
+Author: park <bioqudgus@gmail.com>
+Date:   Thu Jan 18 03:45:15 2024 +0900
+
+    feat: 프로필, 예약내역, 티켓팅 화면 데이터뿌리기
+
+[33mcommit 5839af36e763b234d3c3553488174366c446b8b5[m
+Author: park <bioqudgus@gmail.com>
+Date:   Wed Jan 17 23:54:46 2024 +0900
+
+    feat: mypage_데이터뿌리기
+
+[33mcommit 02707791348136654574d225e4d8855f15f32752[m
+Author: park <bioqudgus@gmail.com>
+Date:   Tue Jan 16 19:24:15 2024 +0900
+
+    Project start
+
+[33mcommit 9f470f0226e6187699f3f15d9dd287113491e3b3[m
+Author: park <bioqudgus@gmail.com>
+Date:   Tue Jan 16 19:21:13 2024 +0900
+
+    project start!!!!

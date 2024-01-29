@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.mybatis.mapper.CommunityMapper">
+
+    <!--게시글 목록-->
+    <select id="selectBoard" resultType="com.bst.ticket.vo.CommunityVO" parameterType="com.bst.ticket.dto.SearchDto">
+        SELECT b.bd_id AS boardId,
+        b.bd_title AS boardTitle,
+        b.bd_content AS boardContent,
+        b.bd_created_at AS boardCreatedAt,
+        b.bd_hit AS boardHit,
+        m.mbr_seq AS memberId,
+        m.mbr_nm AS memberName
+        FROM board b
+        JOIN
+        member m ON b.mbr_seq = m.mbr_seq
+        <where>
+            <if test="keyword != null and keyword !=''">
+                AND bd_title LIKE CONCAT('%', #{keyword}, '%')
+            </if>
+        </where>
+        ORDER BY bd_id
+        LIMIT #{offset}, #{recordSize};
+    </select>
+
+    <!--게시글 수 카운팅-->
+    <select id="count" parameterType="com.bst.ticket.dto.SearchDto" resultType="int">
+        SELECT COUNT(*)
+        FROM board
+        <where>
+            <if test="keyword != null and keyword != ''">
+                AND bd_title LIKE CONCAT('%', #{keyword}, '%')
+            </if>
+        </where>
+    </select>
+
+    <!--게시글 상세조회-->
+    <select id="getCommunityBoardById" resultType="com.bst.ticket.vo.CommunityVO">
+        SELECT b.bd_id         AS boardId,
+               b.bd_title      AS boardTitle,
+               b.bd_content    AS boardContent,
+               b.bd_created_at AS boardCreatedAt,
+               b.bd_hit        AS boardHit,
+               m.mbr_nm        AS memberName
+        FROM board b
+                 JOIN
+             member m ON b.mbr_seq = m.mbr_seq
+        WHERE b.bd_id = #{boardId};
+    </select>
+
+    <!--Increase hit count-->
+    <update id="boardHitsUpdate" parameterType="int">
+        UPDATE board
+        SET bd_hit = bd_hit + 1
+        where bd_id = #{boardId}
+    </update>
+
+    <!--게시글 작성-->
+    <insert id="saveCommunityBoard" parameterType="hashMap">
+        INSERT INTO board(bd_title, bd_content, bd_created_at, mbr_seq)
+        VALUES (#{boardTitle}, #{boardContent}, NOW(), 0)
+    </insert>
+
+    <!--게시글 삭제-->
+    <delete id="deleteCommunityBoardById" parameterType="int">
+        DELETE
+        FROM board
+        WHERE bd_id = #{boardId}
+    </delete>
+
+    <!--게시글 수정-->
+    <update id="updateCommunityBoard" parameterType="com.bst.ticket.vo.CommunityVO">
+        UPDATE board
+        SET bd_title=#{boardTitle},
+            bd_content=#{boardContent}
+        WHERE bd_id = #{boardId};
+    </update>
+
+    <!--댓글 목록-->
+    <select id="selectCommentList" resultType="com.bst.ticket.vo.CommunityCommentVO">
+        SELECT bdc_id         AS commentId,
+               bdc_content    AS commentContent,
+               bdc_created_at AS commentCreatedAt
+        FROM board_comment
+        WHERE bd_id = #{boardId};
+    </select>
+
+    <!--댓글 작성-->
+    <insert id="writeComment" parameterType="java.util.Map">
+        INSERT INTO board_comment (mbr_seq, bdc_content, bdc_created_at, bd_id)
+        VALUES (1, #{commentContent}, NOW(), #{boardId})
+    </insert>
+
+    <!--댓글 삭제-->
+    <delete id="deleteComment" parameterType="int">
+        DELETE
+        FROM board
+        WHERE bd_id = #{boardId};
+    </delete>
+
+    <!--댓글 수정-->
+    <update id="updateComment" parameterType="int">
+        UPDATE board_comment
+        SET comment_conten = #{commentContent}
+        WHERE bdc_id = #{commentId}
+    </update>
+
+</mapper>
