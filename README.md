@@ -1,4 +1,4 @@
-### ⚾️ BST: Best Senior Ticket
+# ⚾️ BST: Best Senior Ticket
 
 노년층을 위한 특별한 야구 티켓 예매 플랫폼 팀 프로젝트 입니다. 어르신들을 타겟으로 야구 경기를 쉽고 편하게 예매할 수 있도록 복잡한 예매 과정을 단순화한 티켓 예매 사이트입니다.
 
@@ -16,7 +16,7 @@
 
 
 
-### ⏰ 개발 기간 및 멤버 구성/Development Period and Development Team
+### 👥 개발 기간 및 멤버 구성/Development Period and Development Team
 
 - Backend 5명
 
@@ -49,3 +49,25 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+### 아키텍처/Architecture
+
+### 프로젝트 구조/Project Structure
+
+### ERD
+
+### API 명세서
+
+### 주요 기능/Key Features
+
+# 👩🏻‍💻 개인 내용
+### 📝 상세 내용/Details
+
+### 📗 학습한 내용/Learned Content
+
+| Index |  |  |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+
+# 🚀 Refactor
