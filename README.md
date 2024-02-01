@@ -4,6 +4,7 @@
 
 노년층을 위한 특별한 야구 티켓 예매 플랫폼 팀 프로젝트 입니다. 어르신들을 타겟으로 야구 경기를 쉽고 편하게 예매할 수 있도록 복잡한 예매 과정을 단순화한 티켓 예매 사이트입니다.
 
+</br></br>
 
 
 ### 🧾 프로젝트 개요/Project Overview
@@ -17,11 +18,14 @@
 원인은 노인들은 온라인 예매가 익숙치 않았기 때문이었습니다. BST 팀 프로젝트에선 ‘디지털 소외’ 문제로 거론되는 것을 ‘개발'로 해결해 볼 수 없을까?에 착안하여 시작하였습니다.
 
 
+</br></br>
+
 
 ### 👥 개발 기간 및 멤버 구성/Development Period and Development Team
 
 - Backend 5명
 
+</br></br>
 
 
 ### 🧰 개발 환경/Development Environment
@@ -52,12 +56,18 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+
+</br></br>
+
 ### 아키텍처/Architecture
+
+
+</br></br>
 
 ### 프로젝트 구조/Project Structure
 
 <details>
-<summary>b/4 refactoring</summary>
+<summary>Detail</summary>
 <div markdown="1">
 
 ```jsx
@@ -145,14 +155,45 @@
 </div>
 </details>
 
+
+</br></br>
+
 ### ERD
 
+![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/5189b0a0-97ae-4c4e-b402-16b5bd26a535)
+
+
+
+</br></br>
 ### API 명세서
+
+
+
+
+</br></br>
+
+
+### Use Case Diagram
+
+<details>
+<summary>Detail</summary>
+<div markdown="1">
+
+    
+</div>
+</details>
+
+
+</br></br>
 
 ### 주요 기능/Key Features
 
+</br></br>
+
 # 👩🏻‍💻 개인 내용
 ### 📝 상세 내용/Details
+
+</br></br>
 
 ### 📗 학습한 내용/Learned Content
 
@@ -160,5 +201,8 @@
 | --- | --- | --- |
 |  |  |  |
 |  |  |  |
+
+
+</br></br>
 
 # 🚀 Refactor
