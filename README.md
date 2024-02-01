@@ -177,14 +177,10 @@
 <summary>Use Case Diagram</summary>
 <div markdown="1">
 
-#### 커뮤니티 게시판
-![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/57ed8237-4872-40c9-a025-27fe33595718)
-#### 메인 페이지
-![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/f72c1126-5a2e-4d70-b21c-a795decdedde)
-#### 마이 페이지
-![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/8df7ed54-c86b-40e6-a497-08fe5fd32a3b)
-#### 티켓 예매 페이지
-![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/e4ee47f5-1c9a-4246-9fb9-da9acd00d5c3)
+| 커뮤니티 게시판 | 메인 페이지 | 마이 페이지 | 티켓 예매 페이지 |
+| --- | --- | --- | --- |
+| ![커뮤니티 게시판](https://github.com/subeenjeonHere/pj_BST/assets/145312273/57ed8237-4872-40c9-a025-27fe33595718) | ![메인 페이지](https://github.com/subeenjeonHere/pj_BST/assets/145312273/f72c1126-5a2e-4d70-b21c-a795decdedde) | ![마이 페이지](https://github.com/subeenjeonHere/pj_BST/assets/145312273/8df7ed54-c86b-40e6-a497-08fe5fd32a3b) | ![티켓 예매 페이지](https://github.com/subeenjeonHere/pj_BST/assets/145312273/e4ee47f5-1c9a-4246-9fb9-da9acd00d5c3) |
+
 
 </div>
 </details>
@@ -195,18 +191,10 @@
 <summary>Flow Chart</summary>
 <div markdown="1">
 
-#### 커뮤니티 게시판
-![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/8a9f98e5-033c-4fbd-9e37-66390d6a33f1)
-#### 티켓 예매
-![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/6842d3e7-5ffc-4302-b21d-89245b51d3e7)
-#### 로그인
-![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/74602d13-fe6c-47bd-9b4b-8fcbb0af99a1)
-#### 회원가입
-![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/0ef4cb58-6396-4791-ac53-04d7792bb562)
-#### 메인 페이지
-![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/16b19684-dc19-413d-aa27-374119b9b2a7)
-#### 티켓 오픈 공지
-![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/e6cae41a-ef12-4370-b9c2-d7dd2f3ead5a)
+| 커뮤니티 게시판 | 티켓 예매 | 로그인 | 회원가입 | 메인 페이지 | 티켓 오픈 공지 |
+| --- | --- | --- | --- | --- | --- |
+| ![커뮤니티 게시판](https://github.com/subeenjeonHere/pj_BST/assets/145312273/8a9f98e5-033c-4fbd-9e37-66390d6a33f1) | ![티켓 예매](https://github.com/subeenjeonHere/pj_BST/assets/145312273/6842d3e7-5ffc-4302-b21d-89245b51d3e7) | ![로그인](https://github.com/subeenjeonHere/pj_BST/assets/145312273/74602d13-fe6c-47bd-9b4b-8fcbb0af99a1) | ![회원가입](https://github.com/subeenjeonHere/pj_BST/assets/145312273/0ef4cb58-6396-4791-ac53-04d7792bb562) | ![메인 페이지](https://github.com/subeenjeonHere/pj_BST/assets/145312273/16b19684-dc19-413d-aa27-374119b9b2a7) | ![티켓 오픈 공지](https://github.com/subeenjeonHere/pj_BST/assets/145312273/e6cae41a-ef12-4370-b9c2-d7dd2f3ead5a) |
+
 
 </div>
 </details>
