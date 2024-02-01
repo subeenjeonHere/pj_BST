@@ -1,5 +1,7 @@
 # ⚾️ BST: Best Senior Ticket
 
+- 팀 프로젝트 종료 후 Refactoring
+
 노년층을 위한 특별한 야구 티켓 예매 플랫폼 팀 프로젝트 입니다. 어르신들을 타겟으로 야구 경기를 쉽고 편하게 예매할 수 있도록 복잡한 예매 과정을 단순화한 티켓 예매 사이트입니다.
 
 
@@ -53,6 +55,95 @@
 ### 아키텍처/Architecture
 
 ### 프로젝트 구조/Project Structure
+
+<details>
+<summary>b/4 refactoring</summary>
+<div markdown="1">
+
+```jsx
+└── main
+    ├── java
+    │   └── com
+    │       └── bst
+    │           └── ticket
+    │               ├── DatabaseConfiguration.java
+    │               ├── ServletInitializer.java
+    │               ├── TickettingApplication.java
+    │               ├── auth
+    │               │   ├── PrincipalDetailService.java
+    │               │   └── PrincipalDetails.java
+    │               ├── config
+    │               │   ├── LocalDateTimeSerializer.java
+    │               │   └── SecurityConfig.java
+    │               ├── controller
+    │               │   ├── CommunityCommentController.java
+    │               │   ├── CommunityController.java
+    │               │   ├── LoginController.java
+    │               │   ├── MainController.java
+    │               │   ├── MemberContoller.java
+    │               │   ├── NoticeController.java
+    │               │   ├── RegistController.java
+    │               │   ├── ReservationController.java
+    │               │   └── TicketController.java
+    │               ├── dao
+    │               │   ├── CommunityCommentDao.java
+    │               │   ├── CommunityDao.java
+    │               │   ├── LoginDao.java
+    │               │   ├── MainDao.java
+    │               │   ├── MemberDao.java
+    │               │   ├── NoticeDao.java
+    │               │   ├── RegistDao.java
+    │               │   ├── ReservationDao.java
+    │               │   ├── TicketDao.java
+    │               │   └── impl
+    │               │       ├── CommunityCommentDaoImpl.java
+    │               │       ├── CommunityDaoImpl.java
+    │               │       ├── LoginDaoImpl.java
+    │               │       ├── MainDaoImpl.java
+    │               │       ├── MemberDaoImpl.java
+    │               │       ├── NoticeDaoImpl.java
+    │               │       ├── RegistDaoImpl.java
+    │               │       ├── ReservationDaoImpl.java
+    │               │       └── TicketDaoImpl.java
+    │               ├── dto
+    │               │   └── SearchDto.java
+    │               ├── oauth
+    │               │   ├── GoogleUserInfo.java
+    │               │   ├── KakaoUserInfo.java
+    │               │   ├── NaverUserInfo.java
+    │               │   ├── OAuth2UserInfo.java
+    │               │   └── PrincipalOauth2UserService.java
+    │               ├── service
+    │               │   ├── CommunityService.java
+    │               │   ├── LoginService.java
+    │               │   ├── MainService.java
+    │               │   ├── MemberService.java
+    │               │   ├── NoticeService.java
+    │               │   ├── RegistService.java
+    │               │   ├── ReservationService.java
+    │               │   ├── TicketService.java
+    │               │   └── impl
+    │               │       ├── CommunityServiceImpl.java
+    │               │       ├── LoginServiceImpl.java
+    │               │       ├── MainServiceImpl.java
+    │               │       ├── MemberServiceImpl.java
+    │               │       ├── NoticeServiceImpl.java
+    │               │       ├── RegistServiceImpl.java
+    │               │       ├── ReservationServiceImpl.java
+    │               │       └── TickeServiceImpl.java
+    │               └── vo
+    │                   ├── CommunityCommentVO.java
+    │                   ├── CommunityVO.java
+    │                   ├── GameVO.java
+    │                   ├── MainVO.java
+    │                   ├── MemberVO.java
+    │                   ├── NoticeVO.java
+    │                   └── ReservationVO.java
+    ├── resources
+```
+
+</div>
+</details>
 
 ### ERD
 
