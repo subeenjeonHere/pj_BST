@@ -207,10 +207,12 @@
 
 ### 📗 학습한 내용/Learned Content
 
-| Index |  |  |
+| INDEX | 데이터 베이스 | 개발 |
 | --- | --- | --- |
-|  |  |  |
-|  |  |  |
+| 1 | [회원 구단 이용약관 테이블 설계](https://velog.io/@nasubeeni/7.-%ED%9A%8C%EC%9B%90-%EA%B5%AC%EB%8B%A8-%EC%9D%B4%EC%9A%A9%EC%95%BD%EA%B4%80-%ED%85%8C%EC%9D%B4%EB%B8%94-%EC%84%A4%EA%B3%84) |  |
+| 2 | [티켓 오픈 공지사항 커뮤니티 CRUD 테이블 설계](https://velog.io/@nasubeeni/8.-%ED%8B%B0%EC%BC%93-%EC%98%A4%ED%94%88-%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0CRUD-%ED%85%8C%EC%9D%B4%EB%B8%94-%EC%84%A4%EA%B3%84) |  |
+| 3 | [게임 경기장 구단 예약 테이블 동시성 문제](https://velog.io/@nasubeeni/chap.09-%EA%B2%8C%EC%9E%84-%EA%B2%BD%EA%B8%B0%EC%9E%A5-%EA%B5%AC%EB%8B%A8-%EC%98%88%EC%95%BD-%ED%85%8C%EC%9D%B4%EB%B8%94-%EB%8F%99%EC%8B%9C%EC%84%B1-%EB%AC%B8%EC%A0%9C) |  |
+| 4 | [ERD Cardinality 그리기](https://velog.io/@nasubeeni/chap.10-ERD-Cardinality-%EA%B7%B8%EB%A6%AC%EA%B8%B0) |  |
 
 
 </br></br>
