@@ -169,22 +169,47 @@
 
 
 
-
 </br></br>
 
-
-### Use Case Diagram
+### Use Case Diagram & Flow Chart
 
 <details>
-<summary>Detail</summary>
+<summary>Use Case Diagram</summary>
 <div markdown="1">
-
     
+![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/57ed8237-4872-40c9-a025-27fe33595718)
+![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/687c95c0-7b43-4387-b548-fb1107cdc36e)
+![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/f72c1126-5a2e-4d70-b21c-a795decdedde)
+![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/77282be0-183b-44e7-8a4e-d0dfd8deec78)
+![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/8df7ed54-c86b-40e6-a497-08fe5fd32a3b)
+![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/e4ee47f5-1c9a-4246-9fb9-da9acd00d5c3)
+
+
+
+
 </div>
 </details>
 
+</br>
 
+<details>
+<summary>Flow Chart</summary>
+<div markdown="1">
+    
+![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/8a9f98e5-033c-4fbd-9e37-66390d6a33f1)
+![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/6842d3e7-5ffc-4302-b21d-89245b51d3e7)
+![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/88ced4be-03b7-4c88-8fc4-8ba0bff10fc4)
+![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/2f6a6820-2369-42f4-807f-fc635f5bb450)
+![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/74602d13-fe6c-47bd-9b4b-8fcbb0af99a1)
+![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/0ef4cb58-6396-4791-ac53-04d7792bb562)
+![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/16b19684-dc19-413d-aa27-374119b9b2a7)
+![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/e6cae41a-ef12-4370-b9c2-d7dd2f3ead5a)
+
+</div>
+</details>
 </br></br>
+
+
 
 ### 주요 기능/Key Features
 
