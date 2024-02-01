@@ -32,20 +32,18 @@
 
 | Backend | Frontend | Database | IDEA | Collaboration |
 | --- | --- | --- | --- | --- |
-| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) |
+| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) | MyBatis ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) |
 
 
 
 
 </br></br>
 
-### 아키텍처/Architecture
-
+### 📜 아키텍처/Architecture
 
 </br></br>
 
-### 프로젝트 구조/Project Structure
-
+### 📍 프로젝트 구조/Project Structure
 <details>
 <summary>Detail</summary>
 <div markdown="1">
@@ -138,29 +136,25 @@
 
 </br></br>
 
-### ERD
-
+### 📉 ERD
 ![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/5189b0a0-97ae-4c4e-b402-16b5bd26a535)
 
 
 
 </br></br>
-### API 명세서
-
+### 📑 API 명세서
 
 
 </br></br>
 
-### Use Case Diagram & Flow Chart
-
+### 🎨 Use Case Diagram & Flow Chart
 <details>
 <summary>Use Case Diagram</summary>
 <div markdown="1">
-
+    
 | 커뮤니티 게시판 | 메인 페이지 | 마이 페이지 | 티켓 예매 페이지 |
 | --- | --- | --- | --- |
 | ![커뮤니티 게시판](https://github.com/subeenjeonHere/pj_BST/assets/145312273/57ed8237-4872-40c9-a025-27fe33595718) | ![메인 페이지](https://github.com/subeenjeonHere/pj_BST/assets/145312273/f72c1126-5a2e-4d70-b21c-a795decdedde) | ![마이 페이지](https://github.com/subeenjeonHere/pj_BST/assets/145312273/8df7ed54-c86b-40e6-a497-08fe5fd32a3b) | ![티켓 예매 페이지](https://github.com/subeenjeonHere/pj_BST/assets/145312273/e4ee47f5-1c9a-4246-9fb9-da9acd00d5c3) |
-
 
 </div>
 </details>
@@ -170,11 +164,10 @@
 <details>
 <summary>Flow Chart</summary>
 <div markdown="1">
-
+    
 | 커뮤니티 게시판 | 티켓 예매 | 로그인 | 회원가입 | 메인 페이지 | 티켓 오픈 공지 |
 | --- | --- | --- | --- | --- | --- |
 | ![커뮤니티 게시판](https://github.com/subeenjeonHere/pj_BST/assets/145312273/8a9f98e5-033c-4fbd-9e37-66390d6a33f1) | ![티켓 예매](https://github.com/subeenjeonHere/pj_BST/assets/145312273/6842d3e7-5ffc-4302-b21d-89245b51d3e7) | ![로그인](https://github.com/subeenjeonHere/pj_BST/assets/145312273/74602d13-fe6c-47bd-9b4b-8fcbb0af99a1) | ![회원가입](https://github.com/subeenjeonHere/pj_BST/assets/145312273/0ef4cb58-6396-4791-ac53-04d7792bb562) | ![메인 페이지](https://github.com/subeenjeonHere/pj_BST/assets/145312273/16b19684-dc19-413d-aa27-374119b9b2a7) | ![티켓 오픈 공지](https://github.com/subeenjeonHere/pj_BST/assets/145312273/e6cae41a-ef12-4370-b9c2-d7dd2f3ead5a) |
-
 
 </div>
 </details>
@@ -182,27 +175,27 @@
 
 
 
-### 주요 기능/Key Features
+### 🔑 주요 기능/Key Features
+
 - 회원가입 및 로그인
     - 카카오, 구글, 네이버 OAuth2 로그인
+- 커뮤니티 게시판
+- 티켓 예매
 - 마이 페이지
 - 오픈 공지사항
-- 커뮤니티 게시판
-- 티켓 예약 기능
 - 메인 페이지
 
 </br></br>
 
 # 👩🏻‍💻 개인 내용
-### 📝 상세 내용/Details
-**담당 기능**
+### **✓ 담당한 주요 기능**
 
-- 데이터 베이스 설계 및 구축
-- 커뮤니티 게시판 (CRUD) 구현
-    - 페이징 처리
-    - 조회수 증가
-    - 댓글 기능
-- 주간 회의록 작성
+| 카테고리 | 설명 |
+| --- | --- |
+| 데이터 베이스 | 프로젝트 데이터베이스 설계 및 구축 |
+| 개발 | 커뮤니티 게시판 CRUD 구현 |
+| 협업 | 주간 회의록 작성 |
+
 </br></br>
 
 ### 📗 학습한 내용/Learned Content
@@ -214,6 +207,10 @@
 | 3 | [게임 경기장 구단 예약 테이블 동시성 문제](https://velog.io/@nasubeeni/chap.09-%EA%B2%8C%EC%9E%84-%EA%B2%BD%EA%B8%B0%EC%9E%A5-%EA%B5%AC%EB%8B%A8-%EC%98%88%EC%95%BD-%ED%85%8C%EC%9D%B4%EB%B8%94-%EB%8F%99%EC%8B%9C%EC%84%B1-%EB%AC%B8%EC%A0%9C) |  |
 | 4 | [ERD Cardinality 그리기](https://velog.io/@nasubeeni/chap.10-ERD-Cardinality-%EA%B7%B8%EB%A6%AC%EA%B8%B0) |  |
 
+
+</br></br>
+
+### ◼︎ 회고
 
 </br></br>
 
