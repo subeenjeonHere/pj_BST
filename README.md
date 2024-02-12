@@ -3,7 +3,6 @@
 - 팀 프로젝트 종료 후 Refactoring
 
 노년층을 위한 특별한 야구 티켓 예매 플랫폼 팀 프로젝트 입니다. 어르신들을 타겟으로 야구 경기를 쉽고 편하게 예매할 수 있도록 복잡한 예매 과정을 단순화한 티켓 예매 사이트입니다.
-
 </br></br>
 
 
@@ -137,7 +136,7 @@
 </br></br>
 
 ### 📉 ERD
-![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/5189b0a0-97ae-4c4e-b402-16b5bd26a535)
+![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/1c979543-3026-4f62-be2f-0dc614e2a548)
 
 
 
@@ -188,24 +187,26 @@
 </br></br>
 
 # 👩🏻‍💻 개인 내용
-### **✓ 담당한 주요 기능**
 
-| 카테고리 | 설명 |
+### ✓ 담당한 주요 기능
+
+| 카테고리 | 내용 |
 | --- | --- |
-| 데이터 베이스 | 프로젝트 데이터베이스 설계 및 구축 |
-| 개발 | 커뮤니티 게시판 CRUD 구현 |
-| 협업 | 주간 회의록 작성 |
+| 데이터 베이스 | 프로젝트 데이터 베이스 설계 및 구축 |
+| 개발 | 커뮤니티 CRUD 게시판 구현 |
+| 협업 | 팀 주간 회의록 작성 |
 
 </br></br>
 
-### 📗 학습한 내용/Learned Content
+### 📗 학습한 내용
 
-| INDEX | 데이터 베이스 | 개발 |
+| Index | 데이터 베이스 | 개발 |
 | --- | --- | --- |
-| 1 | [회원 구단 이용약관 테이블 설계](https://velog.io/@nasubeeni/7.-%ED%9A%8C%EC%9B%90-%EA%B5%AC%EB%8B%A8-%EC%9D%B4%EC%9A%A9%EC%95%BD%EA%B4%80-%ED%85%8C%EC%9D%B4%EB%B8%94-%EC%84%A4%EA%B3%84) |  |
-| 2 | [티켓 오픈 공지사항 커뮤니티 CRUD 테이블 설계](https://velog.io/@nasubeeni/8.-%ED%8B%B0%EC%BC%93-%EC%98%A4%ED%94%88-%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0CRUD-%ED%85%8C%EC%9D%B4%EB%B8%94-%EC%84%A4%EA%B3%84) |  |
-| 3 | [게임 경기장 구단 예약 테이블 동시성 문제](https://velog.io/@nasubeeni/chap.09-%EA%B2%8C%EC%9E%84-%EA%B2%BD%EA%B8%B0%EC%9E%A5-%EA%B5%AC%EB%8B%A8-%EC%98%88%EC%95%BD-%ED%85%8C%EC%9D%B4%EB%B8%94-%EB%8F%99%EC%8B%9C%EC%84%B1-%EB%AC%B8%EC%A0%9C) |  |
-| 4 | [ERD Cardinality 그리기](https://velog.io/@nasubeeni/chap.10-ERD-Cardinality-%EA%B7%B8%EB%A6%AC%EA%B8%B0) |  |
+| 1 | [설계 과정 1](https://subeenjeonhere.github.io/projectjourney/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%84%A4%EA%B3%84(1)/) |  |
+| 2 | [설계 과정 2](https://subeenjeonhere.github.io/projectjourney/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%84%A4%EA%B3%84-(2)/) |  |
+| 3 | [설계 과정 3](https://subeenjeonhere.github.io/projectjourney/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%84%A4%EA%B3%84-(3)/) |  |
+| 4 | [설계 과정 4](https://subeenjeonhere.github.io/projectjourney/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%84%A4%EA%B3%84-(4)/) |  |
+| 5 |  |  |
 
 
 </br></br>
