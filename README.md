@@ -1,12 +1,10 @@
 # ⚾️ BST: Best Senior Ticket
 
-- 팀 프로젝트 종료 후 Refactoring
-
 노년층을 위한 특별한 야구 티켓 예매 플랫폼 팀 프로젝트 입니다. 어르신들을 타겟으로 야구 경기를 쉽고 편하게 예매할 수 있도록 복잡한 예매 과정을 단순화한 티켓 예매 사이트입니다.
 </br></br>
 
 
-### 🧾 프로젝트 개요/Project Overview
+## 프로젝트 개요(Project Overview)
 
 | 기사 발췌 |
 | --- |
@@ -20,29 +18,24 @@
 </br></br>
 
 
-### 👥 개발 기간 및 멤버 구성/Development Period and Development Team
+## 개발 기간 및 멤버 구성(Development Period and Development Team)
 
 - Backend 5명
 
 </br></br>
 
 
-### 🧰 개발 환경/Development Environment
+## 개발 환경(Development Environment)
 
 | Backend | Frontend | Database | IDEA | Collaboration |
 | --- | --- | --- | --- | --- |
 | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) | MyBatis ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) |
 
 
-
-
 </br></br>
 
-### 📜 아키텍처/Architecture
+## 프로젝트 구조(Project Structure)
 
-</br></br>
-
-### 📍 프로젝트 구조/Project Structure
 <details>
 <summary>Detail</summary>
 <div markdown="1">
@@ -135,18 +128,16 @@
 
 </br></br>
 
-### 📉 ERD
+## ERD
+
 ![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/1c979543-3026-4f62-be2f-0dc614e2a548)
 
 
 
 </br></br>
-### 📑 API 명세서
 
+## Use Case Diagram & Flow Chart
 
-</br></br>
-
-### 🎨 Use Case Diagram & Flow Chart
 <details>
 <summary>Use Case Diagram</summary>
 <div markdown="1">
@@ -174,7 +165,7 @@
 
 
 
-### 🔑 주요 기능/Key Features
+## 주요 기능 (Key Features)
 
 - 회원가입 및 로그인
     - 카카오, 구글, 네이버 OAuth2 로그인
@@ -188,7 +179,7 @@
 
 # 👩🏻‍💻 개인 내용
 
-### ✓ 담당한 주요 기능
+## 담당한 주요 기능
 
 | 카테고리 | 내용 |
 | --- | --- |
@@ -196,9 +187,10 @@
 | 개발 | 커뮤니티 CRUD 게시판 구현 |
 | 협업 | 팀 주간 회의록 작성 |
 
+
 </br></br>
 
-### 📗 학습한 내용
+## 📗 학습한 내용
 
 | Index | 데이터 베이스 | 개발 |
 | --- | --- | --- |
