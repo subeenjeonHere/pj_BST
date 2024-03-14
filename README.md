@@ -179,6 +179,26 @@
 
 </br></br>
 
+## 협업 방식
+
+<details>
+<summary>Details</summary>
+
+Jira를 통해 팀 프로젝트 협업을 진행했습니다.
+
+| 데이터 베이스 | 테이블 정의서 | 
+| --- | --- |
+| ![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/4c9ffbca-12d2-4cb3-876f-f1950788b9c8) | ![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/ac625acf-085f-4264-bfb9-153fe05149c2) |
+
+| 회의록 공유 | Git 브랜치 전략 |
+| --- | --- |
+|![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/def0922d-e320-48de-9cc8-30f758b387cf) | ![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/4a6e9e11-3ef8-40c2-a2d4-6e9ef373f6b8)
+    
+</details>
+
+</br></br>
+
+
 # 👩🏻‍💻 개인 내용
 
 ## 담당한 주요 기능
@@ -236,9 +256,7 @@
 
 </br></br>
 
-## 협업 방식
 
-</br></br>
 
 ## ✏️ 프로젝트 회고
 
