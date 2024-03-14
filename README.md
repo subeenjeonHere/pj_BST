@@ -195,9 +195,9 @@
 ## 요구사항 정의서
 
 <details>
-<summary>Use Case Diagram</summary>
+<summary>Details</summary>
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/52c6f85f-3ddd-4805-b994-582e95cc9c9c/1c63cde9-14ef-487d-9574-e9fa1e0124ea/Untitled.png)
+![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/71092534-b9be-4a4e-adff-7befc17a374e)
 
 </details>
     
@@ -216,6 +216,23 @@
 </br></br>
 
 ## 구현 화면
+
+<details>
+<summary>Details</summary>
+
+| 커뮤니티 게시판 | 게시글 및 댓글 |
+| --- | --- |
+| ![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/6225ea55-c551-40c3-bbbc-e2f90533c6a7) | ![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/26147efa-7183-457d-a8fe-f98c7bff6850) |
+
+| 메인 페이지 | 마이 페이지 |
+| --- | --- |
+| ![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/d7a3ac2f-a44f-4010-be45-094fec00e452) | ![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/5fc89da0-cd9e-468f-b8ff-72f6a70eb025) | 
+
+| 마이 페이지 - 프로필 |예약 내역 |
+| --- | --- |
+| ![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/114e1a0f-a246-46ba-bec7-c30557acbd97) | ![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/ef5b8472-ed7b-43c1-a56e-fbb9b992ffe8) | 
+
+</details>
 
 </br></br>
 
