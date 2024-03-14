@@ -12,7 +12,9 @@
 | ![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/3fe408a5-db8b-4e8e-8b53-8ff95281df1d) |
 
 > 2023년 KBO 한국 야구시리즈는 모두 온라인에서만 사전 예매를 받았고, 취소표 조차도 온라인에 먼저 풀리며 현장에서 티켓을 구매하고자 한 어르신들은 구매가 불가능하여 발걸음을 돌렸단 소식이 이슈가 된 적이 있습니다.
-원인은 노인들은 온라인 예매가 익숙치 않았기 때문이었습니다. BST 팀 프로젝트에선 ‘디지털 소외’ 문제로 거론되는 것을 ‘개발'로 해결해 볼 수 없을까?에 착안하여 시작하였습니다.
+
+> 원인은 노인들은 온라인 예매가 익숙치 않았기 때문이었습니다. BST 팀 프로젝트에선 ‘디지털 소외’ 문제로 거론되는 것을 ‘개발'로 해결해 볼 수 없을까?에 착안하여 시작하였습니다.
+
 
 
 </br></br>
@@ -142,7 +144,7 @@
 <summary>Use Case Diagram</summary>
 <div markdown="1">
     
-| 커뮤니티 게시판 | 메인 페이지 | 마이 페이지 | 티켓 예매 페이지 |
+| 커뮤니티 게시판 (담당 기능) | 메인 페이지 | 마이 페이지 | 티켓 예매 페이지 |
 | --- | --- | --- | --- |
 | ![커뮤니티 게시판](https://github.com/subeenjeonHere/pj_BST/assets/145312273/57ed8237-4872-40c9-a025-27fe33595718) | ![메인 페이지](https://github.com/subeenjeonHere/pj_BST/assets/145312273/f72c1126-5a2e-4d70-b21c-a795decdedde) | ![마이 페이지](https://github.com/subeenjeonHere/pj_BST/assets/145312273/8df7ed54-c86b-40e6-a497-08fe5fd32a3b) | ![티켓 예매 페이지](https://github.com/subeenjeonHere/pj_BST/assets/145312273/e4ee47f5-1c9a-4246-9fb9-da9acd00d5c3) |
 
@@ -155,7 +157,7 @@
 <summary>Flow Chart</summary>
 <div markdown="1">
     
-| 커뮤니티 게시판 | 티켓 예매 | 로그인 | 회원가입 | 메인 페이지 | 티켓 오픈 공지 |
+| 커뮤니티 게시판 (담당 기능) | 티켓 예매 | 로그인 | 회원가입 | 메인 페이지 | 티켓 오픈 공지 |
 | --- | --- | --- | --- | --- | --- |
 | ![커뮤니티 게시판](https://github.com/subeenjeonHere/pj_BST/assets/145312273/8a9f98e5-033c-4fbd-9e37-66390d6a33f1) | ![티켓 예매](https://github.com/subeenjeonHere/pj_BST/assets/145312273/6842d3e7-5ffc-4302-b21d-89245b51d3e7) | ![로그인](https://github.com/subeenjeonHere/pj_BST/assets/145312273/74602d13-fe6c-47bd-9b4b-8fcbb0af99a1) | ![회원가입](https://github.com/subeenjeonHere/pj_BST/assets/145312273/0ef4cb58-6396-4791-ac53-04d7792bb562) | ![메인 페이지](https://github.com/subeenjeonHere/pj_BST/assets/145312273/16b19684-dc19-413d-aa27-374119b9b2a7) | ![티켓 오픈 공지](https://github.com/subeenjeonHere/pj_BST/assets/145312273/e6cae41a-ef12-4370-b9c2-d7dd2f3ead5a) |
 
@@ -190,6 +192,17 @@
 
 </br></br>
 
+## 요구사항 정의서
+
+<details>
+<summary>Use Case Diagram</summary>
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/52c6f85f-3ddd-4805-b994-582e95cc9c9c/1c63cde9-14ef-487d-9574-e9fa1e0124ea/Untitled.png)
+
+</details>
+    
+</br></br>
+
 ## 📗 학습한 내용
 
 | Index | 데이터 베이스 | 개발 |
@@ -198,7 +211,18 @@
 | 2 | [설계 과정 2](https://subeenjeonhere.github.io/projectjourney/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%84%A4%EA%B3%84-(2)/) |  |
 | 3 | [설계 과정 3](https://subeenjeonhere.github.io/projectjourney/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%84%A4%EA%B3%84-(3)/) |  |
 | 4 | [설계 과정 4](https://subeenjeonhere.github.io/projectjourney/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%84%A4%EA%B3%84-(4)/) |  |
-| 5 |  |  |
 
+
+</br></br>
+
+## 구현 화면
+
+</br></br>
+
+## 협업 방식
+
+</br></br>
+
+## ✏️ 프로젝트 회고
 
 </br></br>
