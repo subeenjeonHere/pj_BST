@@ -198,6 +198,26 @@ Jira를 통해 팀 프로젝트 협업을 진행했습니다.
 
 </br></br>
 
+## 구현 화면
+
+<details>
+<summary>Details</summary>
+
+| 커뮤니티 게시판 | 게시글 및 댓글 |
+| --- | --- |
+| ![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/6225ea55-c551-40c3-bbbc-e2f90533c6a7) | ![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/26147efa-7183-457d-a8fe-f98c7bff6850) |
+
+| 메인 페이지 | 마이 페이지 |
+| --- | --- |
+| ![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/d7a3ac2f-a44f-4010-be45-094fec00e452) | ![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/5fc89da0-cd9e-468f-b8ff-72f6a70eb025) | 
+
+| 마이 페이지 - 프로필 |예약 내역 |
+| --- | --- |
+| ![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/114e1a0f-a246-46ba-bec7-c30557acbd97) | ![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/ef5b8472-ed7b-43c1-a56e-fbb9b992ffe8) | 
+
+</details>
+
+</br></br>
 
 # 👩🏻‍💻 개인 내용
 
@@ -225,36 +245,16 @@ Jira를 통해 팀 프로젝트 협업을 진행했습니다.
 
 ## 📗 학습한 내용
 
-| Index | 데이터 베이스 | 개발 |
-| --- | --- | --- |
-| 1 | [설계 과정 1](https://subeenjeonhere.github.io/projectjourney/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%84%A4%EA%B3%84(1)/) |  |
-| 2 | [설계 과정 2](https://subeenjeonhere.github.io/projectjourney/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%84%A4%EA%B3%84-(2)/) |  |
-| 3 | [설계 과정 3](https://subeenjeonhere.github.io/projectjourney/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%84%A4%EA%B3%84-(3)/) |  |
-| 4 | [설계 과정 4](https://subeenjeonhere.github.io/projectjourney/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%84%A4%EA%B3%84-(4)/) |  |
-
+| Index | 데이터 베이스 |
+| --- | --- |
+| 1 | [설계 과정 1](https://subeenjeonhere.github.io/projectjourney/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%84%A4%EA%B3%84(1)/) |
+| 2 | [설계 과정 2](https://subeenjeonhere.github.io/projectjourney/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%84%A4%EA%B3%84-(2)/) |
+| 3 | [설계 과정 3](https://subeenjeonhere.github.io/projectjourney/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%84%A4%EA%B3%84-(3)/) |
+| 4 | [설계 과정 4](https://subeenjeonhere.github.io/projectjourney/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%84%A4%EA%B3%84-(4)/) 
 
 </br></br>
 
-## 구현 화면
 
-<details>
-<summary>Details</summary>
-
-| 커뮤니티 게시판 | 게시글 및 댓글 |
-| --- | --- |
-| ![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/6225ea55-c551-40c3-bbbc-e2f90533c6a7) | ![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/26147efa-7183-457d-a8fe-f98c7bff6850) |
-
-| 메인 페이지 | 마이 페이지 |
-| --- | --- |
-| ![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/d7a3ac2f-a44f-4010-be45-094fec00e452) | ![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/5fc89da0-cd9e-468f-b8ff-72f6a70eb025) | 
-
-| 마이 페이지 - 프로필 |예약 내역 |
-| --- | --- |
-| ![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/114e1a0f-a246-46ba-bec7-c30557acbd97) | ![image](https://github.com/subeenjeonHere/pj_BST/assets/145312273/ef5b8472-ed7b-43c1-a56e-fbb9b992ffe8) | 
-
-</details>
-
-</br></br>
 
 
 
